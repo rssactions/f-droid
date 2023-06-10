@@ -1,36 +1,45 @@
 import requests
 from feedgen.feed import FeedGenerator
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 
 response = requests.get('https://f-droid.org/repo/index-v2.json')
 data = response.json()
 
 fg = FeedGenerator()
-fg.title('F-Droid New Apps')
+fg.title('F-Droid Updated Apps')
 fg.link(href='https://f-droid.org', rel='alternate')
-fg.description('New apps from F-Droid')
+fg.description('New Updated from F-Droid')
 
 now = datetime.now(timezone.utc)
 
-for package in data['packages']:
-    updates = [p for p in data['packages'][package] if p.get('suggestedVersionCode') and p['obsoletes'] == 9223372036854775807]
-    if not updates:
+added_since = now - timedelta(days=10)
+
+for package_name, package in data['packages'].items():
+    versions_with_updated = [v for v in package.values() if 'lastUpdated' in v]
+    
+    if not versions_with_updated:
         continue
-    newest_update = sorted(updates, key=lambda x: x['added'], reverse=True)[0]
-
-    added_date = datetime.fromisoformat(newest_update['added'][:-1]) 
-    if (now - added_date).days <= 2:  
-        app = [a for a in data['apps'] if a['packageName'] == package][0]
-
+    
+    latest_version = max(versions_with_updated, key=lambda v: v['lastUpdated'])
+    
+    updated_date = datetime.fromtimestamp(latest_version['lastUpdated'] / 1000, tz=timezone.utc)
+    if updated_date >= added_since:
         fe = fg.add_entry()
-        fe.title(app['name'])
-        fe.link(href='https://f-droid.org/packages/' + package)
-        fe.description(app['summary'])
 
-        icon_url = 'https://f-droid.org/repo/' + app['icon']
-        icon_response = requests.get(icon_url)
-        if icon_response.status_code == 200:
-            fe.logo(icon_url)
+        if isinstance(latest_version.get('name'), dict):
+            fe.title(package_name)
+        else:
+            fe.title(latest_version.get('name', 'Unnamed Application'))
+
+        fe.link(href='https://f-droid.org/packages/' + package_name)
+
+        summary = latest_version.get('summary')
+        if isinstance(summary, dict):
+            summary = summary.get('en-US', 'No summary available')
+        else:
+            summary = str(summary if summary else 'No summary available')
+
+        fe.description(summary)
 
 with open('rss.xml', 'w') as f:
     f.write(fg.rss_str(pretty=True).decode('utf-8'))
