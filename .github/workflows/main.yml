@@ -1,0 +1,30 @@
+name: New Apps in F-Droid RSS Feed
+
+on:
+  schedule:
+    # Run job at 00:00 UTC every day
+    - cron:  '0 7 * * *'
+
+jobs:
+  generate_feed:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests feedgen
+    - name: Generate New Apps in F-Droid RSS feed 
+      run: python generate_fdroid_rss.py
+    - name: Commit and push if changed
+      run: |
+        git config user.name "GitHub Actions"
+        git config user.email "actions@github.com"
+        git add -A
+        git diff --quiet && git diff --staged --quiet || git commit -m "Update F-Droid RSS feed"
+        git push
