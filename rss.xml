@@ -6,7 +6,17 @@
     <description>New Updated from F-Droid</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 30 Jun 2023 07:21:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jul 2023 07:20:10 +0000</lastBuildDate>
+    <item>
+      <title>xyz.apiote.bimba.czwek</title>
+      <link>https://f-droid.org/packages/xyz.apiote.bimba.czwek</link>
+      <description>FLOSS public transport passenger companion; a timetable in your pocket.</description>
+    </item>
+    <item>
+      <title>xdsopl.robot36</title>
+      <link>https://f-droid.org/packages/xdsopl.robot36</link>
+      <description>Image decoder for Slow-Scan Television (SSTV) audio signals</description>
+    </item>
     <item>
       <title>wtf.nbd.obw</title>
       <link>https://f-droid.org/packages/wtf.nbd.obw</link>
@@ -66,6 +76,11 @@
       <title>org.woheller69.gptassist</title>
       <link>https://f-droid.org/packages/org.woheller69.gptassist</link>
       <description>WebView wrapper for ChatGPT</description>
+    </item>
+    <item>
+      <title>org.wikipedia</title>
+      <link>https://f-droid.org/packages/org.wikipedia</link>
+      <description>Official feature-rich viewer of the free online encyclopedia</description>
     </item>
     <item>
       <title>org.totschnig.myexpenses</title>
@@ -133,6 +148,11 @@
       <description>KDE Connect integrates your smartphone and computer</description>
     </item>
     <item>
+      <title>org.hollowbamboo.chordreader2</title>
+      <link>https://f-droid.org/packages/org.hollowbamboo.chordreader2</link>
+      <description>A digital music book to fetch online and store locally chords and lyrics</description>
+    </item>
+    <item>
       <title>org.ghostsinthelab.apps.guilelessbopomofo</title>
       <link>https://f-droid.org/packages/org.ghostsinthelab.apps.guilelessbopomofo</link>
       <description>A simple Bopomofo software keyboard (input method editor) for typing Hanyu</description>
@@ -191,6 +211,11 @@
       <title>org.adaway</title>
       <link>https://f-droid.org/packages/org.adaway</link>
       <description>A free and Open Source ad blocker for Android.</description>
+    </item>
+    <item>
+      <title>openfoodfacts.github.scrachx.openfood</title>
+      <link>https://f-droid.org/packages/openfoodfacts.github.scrachx.openfood</link>
+      <description>Look up food ingredients, allergens, nutrition facts</description>
     </item>
     <item>
       <title>net.vonforst.evmap</title>
@@ -273,6 +298,11 @@
       <description>View and edit notes on Nextcloud</description>
     </item>
     <item>
+      <title>it.niedermann.nextcloud.tables</title>
+      <link>https://f-droid.org/packages/it.niedermann.nextcloud.tables</link>
+      <description>Companion app for Nextcloud Tables</description>
+    </item>
+    <item>
       <title>io.nekohasekai.sagernet.plugin.tuic</title>
       <link>https://f-droid.org/packages/io.nekohasekai.sagernet.plugin.tuic</link>
       <description>The universal proxy toolchain for Android</description>
@@ -318,6 +348,11 @@
       <description>A factory-based sandbox tower defense game</description>
     </item>
     <item>
+      <title>info.zamojski.soft.towercollector</title>
+      <link>https://f-droid.org/packages/info.zamojski.soft.towercollector</link>
+      <description>Join the community and collect cell towers locations from your area!</description>
+    </item>
+    <item>
       <title>info.plateaukao.einkbro</title>
       <link>https://f-droid.org/packages/info.plateaukao.einkbro</link>
       <description>lightweight, fast, but powerful browser designed for Eink devices.</description>
@@ -353,6 +388,11 @@
       <description>Fully featured email client. Neat, intuitive user interface. Privacy friendly</description>
     </item>
     <item>
+      <title>eu.darken.capod</title>
+      <link>https://f-droid.org/packages/eu.darken.capod</link>
+      <description>CAPod is a companion app for AirPods on Android.</description>
+    </item>
+    <item>
       <title>dev.linwood.butterfly.nightly</title>
       <link>https://f-droid.org/packages/dev.linwood.butterfly.nightly</link>
       <description>Powerful, minimalistic, cross-platform, opensource note-taking app</description>
@@ -383,6 +423,11 @@
       <description>No summary available</description>
     </item>
     <item>
+      <title>de.westnordost.luftlinie</title>
+      <link>https://f-droid.org/packages/de.westnordost.luftlinie</link>
+      <description>Navigation for Birds</description>
+    </item>
+    <item>
       <title>de.tutao.tutanota</title>
       <link>https://f-droid.org/packages/de.tutao.tutanota</link>
       <description>Encrypted email &amp; calendar service - easy to use, secure by design.</description>
@@ -408,9 +453,19 @@
       <description>Protect yourself from Apple's Find My Tracking</description>
     </item>
     <item>
+      <title>de.monocles.chat</title>
+      <link>https://f-droid.org/packages/de.monocles.chat</link>
+      <description>is an Open Source XMPP/Jabber Messenger for Android</description>
+    </item>
+    <item>
       <title>de.metager.metagerapp.fdroid</title>
       <link>https://f-droid.org/packages/de.metager.metagerapp.fdroid</link>
       <description>Android app for the German search engine MetaGer</description>
+    </item>
+    <item>
+      <title>de.marmaro.krt.ffupdater</title>
+      <link>https://f-droid.org/packages/de.marmaro.krt.ffupdater</link>
+      <description>Updater for privacy friendly browsers</description>
     </item>
     <item>
       <title>de.jepfa.personaltasklogger</title>
@@ -442,6 +497,11 @@
       <link>https://f-droid.org/packages/cx.ring</link>
       <description>Audio &amp; Video Calls / Chat
 Take Control of your Communication!</description>
+    </item>
+    <item>
+      <title>com.zell_mbc.medilog</title>
+      <link>https://f-droid.org/packages/com.zell_mbc.medilog</link>
+      <description>Log health metrics such as blood pressure, weight and quite a few others</description>
     </item>
     <item>
       <title>com.wmstein.transektcount</title>
@@ -494,6 +554,11 @@ Take Control of your Communication!</description>
       <description>VoIP User Agent app for Android based on baresip SIP library</description>
     </item>
     <item>
+      <title>com.trianguloy.urlchecker</title>
+      <link>https://f-droid.org/packages/com.trianguloy.urlchecker</link>
+      <description>Allows analyzing (or sharing) URLs before opening them.</description>
+    </item>
+    <item>
       <title>com.tailscale.ipn</title>
       <link>https://f-droid.org/packages/com.tailscale.ipn</link>
       <description>Mesh VPN based on WireGuard</description>
@@ -507,6 +572,11 @@ Take Control of your Communication!</description>
       <title>com.streetwriters.notesnook</title>
       <link>https://f-droid.org/packages/com.streetwriters.notesnook</link>
       <description>A fully open source &amp; end-to-end encrypted note taking app</description>
+    </item>
+    <item>
+      <title>com.stoutner.privacybrowser.standard</title>
+      <link>https://f-droid.org/packages/com.stoutner.privacybrowser.standard</link>
+      <description>A web browser that respects your privacy.</description>
     </item>
     <item>
       <title>com.starry.greenstash</title>
@@ -552,6 +622,11 @@ Take Control of your Communication!</description>
       <title>com.shatteredpixel.shatteredpixeldungeon</title>
       <link>https://f-droid.org/packages/com.shatteredpixel.shatteredpixeldungeon</link>
       <description>A roguelike game based on Pixel Dungeon</description>
+    </item>
+    <item>
+      <title>com.serwylo.beatgame</title>
+      <link>https://f-droid.org/packages/com.serwylo.beatgame</link>
+      <description>Jump through cities generated to the beat of the music.</description>
     </item>
     <item>
       <title>com.sdcardstoryteller</title>
@@ -734,6 +809,11 @@ Take Control of your Communication!</description>
       <description>Powerful text/code editor</description>
     </item>
     <item>
+      <title>com.fox2code.mmm.fdroid</title>
+      <link>https://f-droid.org/packages/com.fox2code.mmm.fdroid</link>
+      <description>A module manager for Magisk because the official app dropped support for it.</description>
+    </item>
+    <item>
       <title>com.foobnix.pro.pdf.reader</title>
       <link>https://f-droid.org/packages/com.foobnix.pro.pdf.reader</link>
       <description>Book and PDF reader</description>
@@ -849,6 +929,11 @@ Take Control of your Communication!</description>
       <description>Chat over e-mail. Elegantly Retro, Decentralized and Open. Privacy by Design.</description>
     </item>
     <item>
+      <title>com.asksven.betterbatterystats</title>
+      <link>https://f-droid.org/packages/com.asksven.betterbatterystats</link>
+      <description>Monitor battery behaviour with Better Battery Stats</description>
+    </item>
+    <item>
       <title>com.agoradesk.app</title>
       <link>https://f-droid.org/packages/com.agoradesk.app</link>
       <description>Buy or sell Bitcoin without ID verification. Cash or online. Safe, fast, easy.</description>
@@ -912,6 +997,16 @@ Take Control of your Communication!</description>
       <title>app.simple.inure</title>
       <link>https://f-droid.org/packages/app.simple.inure</link>
       <description>An elegant multi-purpose app manager for all rooted and non-rooted devices.</description>
+    </item>
+    <item>
+      <title>app.shosetsu.android.fdroid</title>
+      <link>https://f-droid.org/packages/app.shosetsu.android.fdroid</link>
+      <description>The extendable novel reader for Android.</description>
+    </item>
+    <item>
+      <title>app.mlauncher</title>
+      <link>https://f-droid.org/packages/app.mlauncher</link>
+      <description>Forked from OlauncherCF, +minimalization, +customizability</description>
     </item>
     <item>
       <title>app.alextran.immich</title>
