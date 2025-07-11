@@ -6,7 +6,7 @@
     <description>New Updated from F-Droid</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 10 Jul 2025 07:12:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jul 2025 07:12:49 +0000</lastBuildDate>
     <item>
       <title>xyz.malkki.neostumbler.fdroid</title>
       <link>https://f-droid.org/packages/xyz.malkki.neostumbler.fdroid</link>
@@ -16,16 +16,6 @@
       <title>website.leifs.delta.foss</title>
       <link>https://f-droid.org/packages/website.leifs.delta.foss</link>
       <description>Minimalistic pastel icon pack for Android</description>
-    </item>
-    <item>
-      <title>us.spotco.maps</title>
-      <link>https://f-droid.org/packages/us.spotco.maps</link>
-      <description>Google Maps WebView Wrapper</description>
-    </item>
-    <item>
-      <title>tr.com.basarsubasi.simplefitnessapp</title>
-      <link>https://f-droid.org/packages/tr.com.basarsubasi.simplefitnessapp</link>
-      <description>An easy to use fitness app that lets you create, schedule and track your workout</description>
     </item>
     <item>
       <title>spam.blocker</title>
@@ -41,11 +31,6 @@
       <title>se.nullable.flickboard</title>
       <link>https://f-droid.org/packages/se.nullable.flickboard</link>
       <description>The Predictable Keyboard</description>
-    </item>
-    <item>
-      <title>s1m.savertuner</title>
-      <link>https://f-droid.org/packages/s1m.savertuner</link>
-      <description>Extension to the built-in Android Battery Saver</description>
     </item>
     <item>
       <title>rs.ruffle</title>
@@ -98,11 +83,6 @@
       <description>Lets you watch the weather for cities and locations you are interested in.</description>
     </item>
     <item>
-      <title>org.woheller69.ttsengine</title>
-      <link>https://f-droid.org/packages/org.woheller69.ttsengine</link>
-      <description>Text-to-Speech engine based on Next-gen Kaldi</description>
-    </item>
-    <item>
       <title>org.woheller69.spritpreise</title>
       <link>https://f-droid.org/packages/org.woheller69.spritpreise</link>
       <description>Gas Prices shows the current prices at petrol stations in Germany</description>
@@ -133,24 +113,9 @@
       <description>DumpSeeker shows sanitary dump stations for camper vans listed in OpenStreetMap</description>
     </item>
     <item>
-      <title>org.wikipedia</title>
-      <link>https://f-droid.org/packages/org.wikipedia</link>
-      <description>Official feature-rich viewer of the free online encyclopedia</description>
-    </item>
-    <item>
       <title>org.sunsetware.phocid</title>
       <link>https://f-droid.org/packages/org.sunsetware.phocid</link>
       <description>A modern offline music player with familiar designs</description>
-    </item>
-    <item>
-      <title>org.strongswan.android</title>
-      <link>https://f-droid.org/packages/org.strongswan.android</link>
-      <description>An easy to use IKEv2/IPsec-based VPN client.</description>
-    </item>
-    <item>
-      <title>org.openobservatory.ooniprobe</title>
-      <link>https://f-droid.org/packages/org.openobservatory.ooniprobe</link>
-      <description>Measure Internet Censorship, Speed &amp; Performance</description>
     </item>
     <item>
       <title>org.openhab.habdroid.beta</title>
@@ -158,29 +123,9 @@
       <description>Vendor and technology agnostic open source home automation</description>
     </item>
     <item>
-      <title>org.nsh07.wikireader</title>
-      <link>https://f-droid.org/packages/org.nsh07.wikireader</link>
-      <description>Read Wikipedia pages distraction-free</description>
-    </item>
-    <item>
-      <title>org.mozilla.fennec_fdroid</title>
-      <link>https://f-droid.org/packages/org.mozilla.fennec_fdroid</link>
-      <description>Browse the web</description>
-    </item>
-    <item>
-      <title>org.mindshub.insigno</title>
-      <link>https://f-droid.org/packages/org.mindshub.insigno</link>
-      <description>Report and collect garbage, earning points!</description>
-    </item>
-    <item>
       <title>org.mian.gitnex</title>
       <link>https://f-droid.org/packages/org.mian.gitnex</link>
       <description>Client for Gitea</description>
-    </item>
-    <item>
-      <title>org.linphone</title>
-      <link>https://f-droid.org/packages/org.linphone</link>
-      <description>SIP (VOIP) phone</description>
     </item>
     <item>
       <title>org.kde.bettercounter</title>
@@ -223,11 +168,6 @@
       <description>Forkgram is a fork of the official Telegram for Android application.</description>
     </item>
     <item>
-      <title>org.equeim.tremotesf</title>
-      <link>https://f-droid.org/packages/org.equeim.tremotesf</link>
-      <description>Remote-control Transmission BitTorrent client</description>
-    </item>
-    <item>
       <title>org.bombusmod</title>
       <link>https://f-droid.org/packages/org.bombusmod</link>
       <description>Messaging client</description>
@@ -246,16 +186,6 @@
       <title>net.thunderbird.android.beta</title>
       <link>https://f-droid.org/packages/net.thunderbird.android.beta</link>
       <description>Thunderbird is a 100% open source, privacy focused email app.</description>
-    </item>
-    <item>
-      <title>net.thunderbird.android</title>
-      <link>https://f-droid.org/packages/net.thunderbird.android</link>
-      <description>Thunderbird is a 100% open source, privacy focused email app.</description>
-    </item>
-    <item>
-      <title>net.taler.wallet.fdroid</title>
-      <link>https://f-droid.org/packages/net.taler.wallet.fdroid</link>
-      <description>Makes privacy-friendly online transactions fast and easy</description>
     </item>
     <item>
       <title>net.retiolus.natinfo</title>
@@ -283,11 +213,6 @@
       <description>VNC server app that does not require root privileges.</description>
     </item>
     <item>
-      <title>net.bible.android.activity</title>
-      <link>https://f-droid.org/packages/net.bible.android.activity</link>
-      <description>Read the Bible, study commentaries or dictionaries, or read books offline.</description>
-    </item>
-    <item>
       <title>me.zhanghai.android.textselectionwebsearch</title>
       <link>https://f-droid.org/packages/me.zhanghai.android.textselectionwebsearch</link>
       <description>Add a "Web search" action to the text selection toolbar</description>
@@ -298,24 +223,9 @@
       <description>Pomodoro, checklists, goals, tasks, repetitive, calendar and time tracking</description>
     </item>
     <item>
-      <title>me.robbyblue.mylauncher</title>
-      <link>https://f-droid.org/packages/me.robbyblue.mylauncher</link>
-      <description>A file structure inspired launcher</description>
-    </item>
-    <item>
       <title>me.knighthat.kreate</title>
       <link>https://f-droid.org/packages/me.knighthat.kreate</link>
       <description>A multilingual YouTube Music frontend for Android, prioritize performance.</description>
-    </item>
-    <item>
-      <title>me.haroldmartin.golwallpaper</title>
-      <link>https://f-droid.org/packages/me.haroldmartin.golwallpaper</link>
-      <description>Conway's Game of Life screensaver for Onyx Boox devices</description>
-    </item>
-    <item>
-      <title>me.ash.reader</title>
-      <link>https://f-droid.org/packages/me.ash.reader</link>
-      <description>A modern and elegant RSS reader with Material You design</description>
     </item>
     <item>
       <title>luci.sixsixsix.powerampache2.fdroid</title>
@@ -343,11 +253,6 @@
       <description>YouTube and YouTube Music in a single app. No ads, plays in the background.</description>
     </item>
     <item>
-      <title>io.horizontalsystems.bankwallet</title>
-      <link>https://f-droid.org/packages/io.horizontalsystems.bankwallet</link>
-      <description>Bitcoin, Ethereum, DeFi</description>
-    </item>
-    <item>
       <title>io.github.yawnoc.strokeinput</title>
       <link>https://f-droid.org/packages/io.github.yawnoc.strokeinput</link>
       <description>A minimalist Chinese keyboard.</description>
@@ -361,11 +266,6 @@
       <title>io.github.lydavid.musicsearch</title>
       <link>https://f-droid.org/packages/io.github.lydavid.musicsearch</link>
       <description>MusicSearch is an app for browsing songs, artists, and anything related to them</description>
-    </item>
-    <item>
-      <title>io.github.jd1378.otphelper</title>
-      <link>https://f-droid.org/packages/io.github.jd1378.otphelper</link>
-      <description>an open-source app that can detect and copy any code for you</description>
     </item>
     <item>
       <title>io.github.deprec8.enigmadroid</title>
@@ -401,11 +301,6 @@
       <title>eu.zimbelstern.tournant</title>
       <link>https://f-droid.org/packages/eu.zimbelstern.tournant</link>
       <description>Recipe manager and cookbook for your cooking and baking recipes</description>
-    </item>
-    <item>
-      <title>eu.schmidt.systems.opensyncedlists</title>
-      <link>https://f-droid.org/packages/eu.schmidt.systems.opensyncedlists</link>
-      <description>Create easy to sort lists</description>
     </item>
     <item>
       <title>eu.faircode.email</title>
@@ -448,39 +343,14 @@
       <description>An unofficial, FLOSS, native Android NetBird client built with privacy in mind</description>
     </item>
     <item>
-      <title>deckers.thibault.aves.libre</title>
-      <link>https://f-droid.org/packages/deckers.thibault.aves.libre</link>
-      <description>Gallery and metadata explorer</description>
-    </item>
-    <item>
       <title>de.tutao.tutanota</title>
       <link>https://f-droid.org/packages/de.tutao.tutanota</link>
       <description>Encrypted email &amp; calendar service - easy to use, secure by design.</description>
     </item>
     <item>
-      <title>de.tutao.calendar</title>
-      <link>https://f-droid.org/packages/de.tutao.calendar</link>
-      <description>Quantum-safe encrypted planner to schedule &amp; manage your events &amp; sync calendars</description>
-    </item>
-    <item>
-      <title>de.theiling.neatlauncher</title>
-      <link>https://f-droid.org/packages/de.theiling.neatlauncher</link>
-      <description>A neat and convenient launcher without icons.</description>
-    </item>
-    <item>
-      <title>de.tadris.flang</title>
-      <link>https://f-droid.org/packages/de.tadris.flang</link>
-      <description>A board game similar to chess</description>
-    </item>
-    <item>
       <title>de.rwth_aachen.phyphox</title>
       <link>https://f-droid.org/packages/de.rwth_aachen.phyphox</link>
       <description>Perform physics experiments with your phone. (by the RWTH Aachen University)</description>
-    </item>
-    <item>
-      <title>de.rainerhock.eightbitwonders</title>
-      <link>https://f-droid.org/packages/de.rainerhock.eightbitwonders</link>
-      <description>Pixel games and other retro stuff with all the Android features.</description>
     </item>
     <item>
       <title>de.ph1b.audiobook</title>
@@ -498,24 +368,9 @@
       <description>Weather forecast based on open data from the Deutscher Wetterdienst.</description>
     </item>
     <item>
-      <title>de.dennisguse.opentracks.playstore</title>
-      <link>https://f-droid.org/packages/de.dennisguse.opentracks.playstore</link>
-      <description>A sport tracker buddy that respects your privacy.</description>
-    </item>
-    <item>
-      <title>de.dennisguse.opentracks</title>
-      <link>https://f-droid.org/packages/de.dennisguse.opentracks</link>
-      <description>A sport tracker buddy that respects your privacy.</description>
-    </item>
-    <item>
       <title>de.computerelite.shockalarm</title>
       <link>https://f-droid.org/packages/de.computerelite.shockalarm</link>
       <description>Material3 app for controlling OpenShock shockers</description>
-    </item>
-    <item>
-      <title>de.christinecoenen.code.zapp</title>
-      <link>https://f-droid.org/packages/de.christinecoenen.code.zapp</link>
-      <description>Collection of German public broadcasting live streams</description>
     </item>
     <item>
       <title>de.blau.android</title>
@@ -533,16 +388,6 @@
       <description>Open links without cumbersome copy &amp; paste!</description>
     </item>
     <item>
-      <title>cx.ring</title>
-      <link>https://f-droid.org/packages/cx.ring</link>
-      <description>Share, freely and privately</description>
-    </item>
-    <item>
-      <title>com.zoffcc.applications.undereat</title>
-      <link>https://f-droid.org/packages/com.zoffcc.applications.undereat</link>
-      <description>Restaurant Organiser</description>
-    </item>
-    <item>
       <title>com.zell_mbc.publicartexplorer.foss</title>
       <link>https://f-droid.org/packages/com.zell_mbc.publicartexplorer.foss</link>
       <description>Discover and view public art</description>
@@ -551,16 +396,6 @@
       <title>com.wmstein.tourcount</title>
       <link>https://f-droid.org/packages/com.wmstein.tourcount</link>
       <description>A butterfly monitoring app for species-specific registering of butterflies in Eu</description>
-    </item>
-    <item>
-      <title>com.wirelessalien.android.bhagavadgita</title>
-      <link>https://f-droid.org/packages/com.wirelessalien.android.bhagavadgita</link>
-      <description>A Simple Android App for Bhagavad Gita</description>
-    </item>
-    <item>
-      <title>com.wangjinli.carvita</title>
-      <link>https://f-droid.org/packages/com.wangjinli.carvita</link>
-      <description>Personal assistant for managing and predicting your vehicle's maintenance needs.</description>
     </item>
     <item>
       <title>com.uravgcode.chooser</title>
@@ -576,11 +411,6 @@
       <title>com.unciv.app</title>
       <link>https://f-droid.org/packages/com.unciv.app</link>
       <description>Open source 4X civilization-building game</description>
-    </item>
-    <item>
-      <title>com.tutpro.baresip.plus</title>
-      <link>https://f-droid.org/packages/com.tutpro.baresip.plus</link>
-      <description>VoIP User Agent app for Android based on baresip SIP library</description>
     </item>
     <item>
       <title>com.tombursch.kitchenowl</title>
@@ -658,11 +488,6 @@
       <description>Your lightweight step counting buddy</description>
     </item>
     <item>
-      <title>com.nextgis.mobile</title>
-      <link>https://f-droid.org/packages/com.nextgis.mobile</link>
-      <description>GIS that lets you create, edit and export geodata, both online and offline</description>
-    </item>
-    <item>
       <title>com.nextcloud.talk2</title>
       <link>https://f-droid.org/packages/com.nextcloud.talk2</link>
       <description>Have private video calls and chat using your own server.</description>
@@ -698,11 +523,6 @@
       <description>A simple music app using YouTube Music for backend</description>
     </item>
     <item>
-      <title>com.maxistar.textpad</title>
-      <link>https://f-droid.org/packages/com.maxistar.textpad</link>
-      <description>Simple Text Editor</description>
-    </item>
-    <item>
       <title>com.maksimowiczm.findmyip</title>
       <link>https://f-droid.org/packages/com.maksimowiczm.findmyip</link>
       <description>Monitor your IP addresses</description>
@@ -711,11 +531,6 @@
       <title>com.kylecorry.trail_sense</title>
       <link>https://f-droid.org/packages/com.kylecorry.trail_sense</link>
       <description>Use your phone's sensors to assist with wilderness treks</description>
-    </item>
-    <item>
-      <title>com.justdeax.composeStopwatch</title>
-      <link>https://f-droid.org/packages/com.justdeax.composeStopwatch</link>
-      <description>Stopwatch in the Material You theme, designed for ease of use and best features</description>
     </item>
     <item>
       <title>com.jiaqifeng.hacki</title>
@@ -730,29 +545,9 @@
 REQUIRES A QUASSEL CORE</description>
     </item>
     <item>
-      <title>com.infomaniak.drive</title>
-      <link>https://f-droid.org/packages/com.infomaniak.drive</link>
-      <description>The most secure cloud in Europe for SMEs and private individuals.</description>
-    </item>
-    <item>
-      <title>com.hicorenational.wikipedia</title>
-      <link>https://f-droid.org/packages/com.hicorenational.wikipedia</link>
-      <description>Wikipedia app with censorship circumvention</description>
-    </item>
-    <item>
-      <title>com.health.openscale</title>
-      <link>https://f-droid.org/packages/com.health.openscale</link>
-      <description>Weight and body metrics tracker, with support for Bluetooth scales</description>
-    </item>
-    <item>
       <title>com.greenaddress.greenbits_android_wallet</title>
       <link>https://f-droid.org/packages/com.greenaddress.greenbits_android_wallet</link>
       <description>Blockstream Green Bitcoin wallet</description>
-    </item>
-    <item>
-      <title>com.governikus.ausweisapp2</title>
-      <link>https://f-droid.org/packages/com.governikus.ausweisapp2</link>
-      <description>ePerso mit dem Handy nutzen</description>
     </item>
     <item>
       <title>com.github.umer0586.droidpad</title>
@@ -765,34 +560,14 @@ REQUIRES A QUASSEL CORE</description>
       <description>Android port of endless-sky space trading game.</description>
     </item>
     <item>
-      <title>com.github.metacubex.clash.meta</title>
-      <link>https://f-droid.org/packages/com.github.metacubex.clash.meta</link>
-      <description>A rule-based tunnel</description>
-    </item>
-    <item>
-      <title>com.github.livingwithhippos.unchained</title>
-      <link>https://f-droid.org/packages/com.github.livingwithhippos.unchained</link>
-      <description>App to interact with Real Debrid</description>
-    </item>
-    <item>
       <title>com.github.dyhkwong.sagernet</title>
       <link>https://f-droid.org/packages/com.github.dyhkwong.sagernet</link>
       <description>Proxy client</description>
     </item>
     <item>
-      <title>com.github.catfriend1.syncthingandroid</title>
-      <link>https://f-droid.org/packages/com.github.catfriend1.syncthingandroid</link>
-      <description>Wrapper for Syncthing - Open and decentralized file synchronization</description>
-    </item>
-    <item>
       <title>com.github.andreyasadchy.xtra</title>
       <link>https://f-droid.org/packages/com.github.andreyasadchy.xtra</link>
       <description>a Twitch player and browser</description>
-    </item>
-    <item>
-      <title>com.georgeyt9769.cardabase</title>
-      <link>https://f-droid.org/packages/com.georgeyt9769.cardabase</link>
-      <description>All Your Shop Cards in One Place</description>
     </item>
     <item>
       <title>com.geeksville.mesh</title>
@@ -803,16 +578,6 @@ REQUIRES A QUASSEL CORE</description>
       <title>com.futsch1.medtimer</title>
       <link>https://f-droid.org/packages/com.futsch1.medtimer</link>
       <description>Med reminders and history with full offline privacy</description>
-    </item>
-    <item>
-      <title>com.fsck.k9</title>
-      <link>https://f-droid.org/packages/com.fsck.k9</link>
-      <description>Full-featured email client</description>
-    </item>
-    <item>
-      <title>com.froxot.cuscon.foss</title>
-      <link>https://f-droid.org/packages/com.froxot.cuscon.foss</link>
-      <description>This icon pack adds variety and dynamism to your Home screen</description>
     </item>
     <item>
       <title>com.flipperdevices.app</title>
@@ -850,24 +615,9 @@ REQUIRES A QUASSEL CORE</description>
       <description>A modules manager for Magisk &amp; KernelSU.</description>
     </item>
     <item>
-      <title>com.darkrockstudios.apps.fasttrack</title>
-      <link>https://f-droid.org/packages/com.darkrockstudios.apps.fasttrack</link>
-      <description>Track what your body is doing while fasting</description>
-    </item>
-    <item>
       <title>com.craxiom.networksurvey</title>
       <link>https://f-droid.org/packages/com.craxiom.networksurvey</link>
       <description>Displays and Logs Cellular, Wi-Fi, Bluetooth, and GNSS Network Survey Details</description>
-    </item>
-    <item>
-      <title>com.cointrend</title>
-      <link>https://f-droid.org/packages/com.cointrend</link>
-      <description>Lightweight, fast and private cryptocurrencies monitor</description>
-    </item>
-    <item>
-      <title>com.coinerella.peercoin</title>
-      <link>https://f-droid.org/packages/com.coinerella.peercoin</link>
-      <description>Your mobile wallet for Peercoin and Peercoin testnet.</description>
     </item>
     <item>
       <title>com.capyreader.app</title>
@@ -883,11 +633,6 @@ REQUIRES A QUASSEL CORE</description>
       <title>com.brentpanther.bitcoinwidget</title>
       <link>https://f-droid.org/packages/com.brentpanther.bitcoinwidget</link>
       <description>A simple widget to display prices for lots of cryptocurrencies.</description>
-    </item>
-    <item>
-      <title>com.boldwallet</title>
-      <link>https://f-droid.org/packages/com.boldwallet</link>
-      <description>Seedless, secure Bitcoin wallet using Threshold Signatures. </description>
     </item>
     <item>
       <title>com.best.deskclock</title>
@@ -918,11 +663,6 @@ REQUIRES A QUASSEL CORE</description>
       <title>com.appmindlab.nano</title>
       <link>https://f-droid.org/packages/com.appmindlab.nano</link>
       <description>A hub of written thoughts in fast searchable plain text</description>
-    </item>
-    <item>
-      <title>com.app.openlib</title>
-      <link>https://f-droid.org/packages/com.app.openlib</link>
-      <description>download and read books from shadow library (Anna’s Archive)</description>
     </item>
     <item>
       <title>com.aisleron</title>
@@ -990,34 +730,9 @@ REQUIRES A QUASSEL CORE</description>
       <description>TTS based AAC</description>
     </item>
     <item>
-      <title>app.simple.peri</title>
-      <link>https://f-droid.org/packages/app.simple.peri</link>
-      <description>Simple wallpaper manager app with Auto Wallpaper and Multi Folder support.</description>
-    </item>
-    <item>
       <title>app.pachli</title>
       <link>https://f-droid.org/packages/app.pachli</link>
       <description>A full-featured Android client for Mastodon and similar servers.</description>
-    </item>
-    <item>
-      <title>app.organicmaps</title>
-      <link>https://f-droid.org/packages/app.organicmaps</link>
-      <description>Navigate with Privacy - Community-Driven &amp; Open-Source</description>
-    </item>
-    <item>
-      <title>app.mlauncher</title>
-      <link>https://f-droid.org/packages/app.mlauncher</link>
-      <description>Multi Launcher ‧ Home Screen, Minimal UI Launcher</description>
-    </item>
-    <item>
-      <title>app.govroam.getgovroam</title>
-      <link>https://f-droid.org/packages/app.govroam.getgovroam</link>
-      <description>Configure the govroam Wi-Fi network securely and correctly</description>
-    </item>
-    <item>
-      <title>app.eduroam.geteduroam</title>
-      <link>https://f-droid.org/packages/app.eduroam.geteduroam</link>
-      <description>Configure eduroam by using your institution profile</description>
     </item>
     <item>
       <title>app.comaps.fdroid</title>
