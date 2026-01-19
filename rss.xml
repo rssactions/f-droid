@@ -6,7 +6,7 @@
     <description>New Updated from F-Droid</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 18 Jan 2026 07:12:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 07:21:13 +0000</lastBuildDate>
     <item>
       <title>xyz.linerly.searxist</title>
       <link>https://f-droid.org/packages/xyz.linerly.searxist</link>
@@ -108,6 +108,16 @@
       <description>Passkey credential provider for hardware security keys</description>
     </item>
     <item>
+      <title>org.unifiedpush.distributor.sunup</title>
+      <link>https://f-droid.org/packages/org.unifiedpush.distributor.sunup</link>
+      <description>UnifiedPush provider using Mozilla's push server</description>
+    </item>
+    <item>
+      <title>org.unifiedpush.distributor.nextpush</title>
+      <link>https://f-droid.org/packages/org.unifiedpush.distributor.nextpush</link>
+      <description>UnifiedPush distributor using Nextcloud server.</description>
+    </item>
+    <item>
       <title>org.ucam.ssb22.pinyinfdroid</title>
       <link>https://f-droid.org/packages/org.ucam.ssb22.pinyinfdroid</link>
       <description>Adds Pinyin or Cantonese etc to websites and EPUBs</description>
@@ -116,6 +126,16 @@
       <title>org.thayyil.ringdroid</title>
       <link>https://f-droid.org/packages/org.thayyil.ringdroid</link>
       <description>An application for creating your own ringtones.</description>
+    </item>
+    <item>
+      <title>org.secuso.privacyfriendlytodolist</title>
+      <link>https://f-droid.org/packages/org.secuso.privacyfriendlytodolist</link>
+      <description>(SECUSO) Create lists of tasks which can be individually managed.</description>
+    </item>
+    <item>
+      <title>org.secuso.privacyfriendlybattleship</title>
+      <link>https://f-droid.org/packages/org.secuso.privacyfriendlybattleship</link>
+      <description>(SECUSO) Play the battleship game on your smartphone without ads or permissions.</description>
     </item>
     <item>
       <title>org.schabi.newpipe</title>
@@ -131,6 +151,11 @@
       <title>org.privacymatters.safespace</title>
       <link>https://f-droid.org/packages/org.privacymatters.safespace</link>
       <description>A safe space for your digital valuables.</description>
+    </item>
+    <item>
+      <title>org.piepmeyer.gauguin</title>
+      <link>https://f-droid.org/packages/org.piepmeyer.gauguin</link>
+      <description>A Sudoku-like logic game</description>
     </item>
     <item>
       <title>org.onekash.kashcal</title>
@@ -168,14 +193,29 @@
       <description>Experimental Matrix client made using Compose Multiplatform (and Rust).</description>
     </item>
     <item>
+      <title>org.mian.gitnex</title>
+      <link>https://f-droid.org/packages/org.mian.gitnex</link>
+      <description>Client for Gitea</description>
+    </item>
+    <item>
       <title>org.kaqui</title>
       <link>https://f-droid.org/packages/org.kaqui</link>
       <description>Learn Japanese with Kakugo</description>
     </item>
     <item>
+      <title>org.hwyl.sexytopo</title>
+      <link>https://f-droid.org/packages/org.hwyl.sexytopo</link>
+      <description>Assist in cave surveying</description>
+    </item>
+    <item>
       <title>org.grakovne.lissen</title>
       <link>https://f-droid.org/packages/org.grakovne.lissen</link>
       <description>Clean Audiobookshelf Player</description>
+    </item>
+    <item>
+      <title>org.gonbei774.pocketcheck</title>
+      <link>https://f-droid.org/packages/org.gonbei774.pocketcheck</link>
+      <description>A working memory app - "Anything to put in your pocket?"</description>
     </item>
     <item>
       <title>org.ghostsinthelab.apps.guilelessbopomofo</title>
@@ -211,6 +251,11 @@
       <title>org.css_apps_m3.password_manager</title>
       <link>https://f-droid.org/packages/org.css_apps_m3.password_manager</link>
       <description>Local Material 3 Password Manager.</description>
+    </item>
+    <item>
+      <title>org.birthdayadapter</title>
+      <link>https://f-droid.org/packages/org.birthdayadapter</link>
+      <description>Birthday Calendar Adapter</description>
     </item>
     <item>
       <title>org.billthefarmer.gridle</title>
@@ -273,6 +318,11 @@
       <description>Remote lock and wipe triggers for compromised or unattended devices.</description>
     </item>
     <item>
+      <title>net.nymtech.nymvpn</title>
+      <link>https://f-droid.org/packages/net.nymtech.nymvpn</link>
+      <description>The World’s Most Private VPN</description>
+    </item>
+    <item>
       <title>net.liujiacai.flauth</title>
       <link>https://f-droid.org/packages/net.liujiacai.flauth</link>
       <description>Privacy-first, open-source TOTP authenticator for 2FA token management.</description>
@@ -328,6 +378,11 @@
       <description>App used to track, manage and remind you of your own stuff.</description>
     </item>
     <item>
+      <title>m.co.rh.id.a_news_provider</title>
+      <link>https://f-droid.org/packages/m.co.rh.id.a_news_provider</link>
+      <description>A simple and easy to use RSS aggregator that deliver news to your smartphone</description>
+    </item>
+    <item>
       <title>m.co.rh.id.a_medic_log</title>
       <link>https://f-droid.org/packages/m.co.rh.id.a_medic_log</link>
       <description>A simple and easy to use personal medical notes</description>
@@ -336,6 +391,11 @@
       <title>m.co.rh.id.a_flash_deck</title>
       <link>https://f-droid.org/packages/m.co.rh.id.a_flash_deck</link>
       <description>A simple and easy to use flash card to help you study</description>
+    </item>
+    <item>
+      <title>lu.knaff.alain.share_to_folder</title>
+      <link>https://f-droid.org/packages/lu.knaff.alain.share_to_folder</link>
+      <description>Share data from other apps to a folder</description>
     </item>
     <item>
       <title>lu.knaff.alain.saf_sftp</title>
@@ -413,6 +473,11 @@
       <description>Manage your device privacy based on lock/unlock state</description>
     </item>
     <item>
+      <title>io.github.chrisimx.scanbridge</title>
+      <link>https://f-droid.org/packages/io.github.chrisimx.scanbridge</link>
+      <description>No summary available</description>
+    </item>
+    <item>
       <title>io.ente.photos.fdroid</title>
       <link>https://f-droid.org/packages/io.ente.photos.fdroid</link>
       <description>Backup, Organise, Share - Private photo storage with end-to-end encryption</description>
@@ -438,9 +503,19 @@
       <description>Conference program app for the Chaos Communication Congress</description>
     </item>
     <item>
+      <title>in.hridayan.ashell</title>
+      <link>https://f-droid.org/packages/in.hridayan.ashell</link>
+      <description>A material you designed app for your ADB needs</description>
+    </item>
+    <item>
       <title>host.stjin.anonaddy</title>
       <link>https://f-droid.org/packages/host.stjin.anonaddy</link>
       <description>Anonymous Email Forwarding</description>
+    </item>
+    <item>
+      <title>hev.sockstun</title>
+      <link>https://f-droid.org/packages/hev.sockstun</link>
+      <description>A simple and lightweight VPN over socks5 proxy (tun2socks)</description>
     </item>
     <item>
       <title>gizz.tapes.foss</title>
@@ -466,11 +541,6 @@
       <title>f.cking.software</title>
       <link>https://f-droid.org/packages/f.cking.software</link>
       <description>A tool to monitor, analyze and find BLE devices around you.</description>
-    </item>
-    <item>
-      <title>eu.weblibre.gecko</title>
-      <link>https://f-droid.org/packages/eu.weblibre.gecko</link>
-      <description>Privacy-focused browser with local AI, advanced tab management, personal search,</description>
     </item>
     <item>
       <title>eu.rafareborn.biometricbypass</title>
@@ -511,6 +581,11 @@
       <title>dev.leonlatsch.photok</title>
       <link>https://f-droid.org/packages/dev.leonlatsch.photok</link>
       <description>Encrypt images and videos on your device.</description>
+    </item>
+    <item>
+      <title>dev.imranr.obtainium.fdroid</title>
+      <link>https://f-droid.org/packages/dev.imranr.obtainium.fdroid</link>
+      <description>Get Android app updates directly from the source</description>
     </item>
     <item>
       <title>dev.djara.wafrn_rn</title>
@@ -593,6 +668,11 @@
       <description>Manage your tasks, everyday</description>
     </item>
     <item>
+      <title>de.jepfa.bdt</title>
+      <link>https://f-droid.org/packages/de.jepfa.bdt</link>
+      <description>A timer with intermediate notifications</description>
+    </item>
+    <item>
       <title>de.informationsanarchistik.teapot.megamichi.duckrun</title>
       <link>https://f-droid.org/packages/de.informationsanarchistik.teapot.megamichi.duckrun</link>
       <description>A game about a duck</description>
@@ -616,11 +696,6 @@
       <title>de.danoeh.antennapod</title>
       <link>https://f-droid.org/packages/de.danoeh.antennapod</link>
       <description>Easy-to-use, flexible and open-source podcast manager and player</description>
-    </item>
-    <item>
-      <title>de.blinkt.openvpn</title>
-      <link>https://f-droid.org/packages/de.blinkt.openvpn</link>
-      <description>OpenVPN without root</description>
     </item>
     <item>
       <title>de.blau.android</title>
@@ -748,6 +823,16 @@
       <description>A simple, fast Xray client</description>
     </item>
     <item>
+      <title>com.shalenmathew.movieflix</title>
+      <link>https://f-droid.org/packages/com.shalenmathew.movieflix</link>
+      <description>Cinephile's Movie Diary</description>
+    </item>
+    <item>
+      <title>com.sadellie.unitto</title>
+      <link>https://f-droid.org/packages/com.sadellie.unitto</link>
+      <description>No summary available</description>
+    </item>
+    <item>
       <title>com.rama.mako</title>
       <link>https://f-droid.org/packages/com.rama.mako</link>
       <description>Privacy-first Android launcher designed for focus, speed, and simplicity.</description>
@@ -833,6 +918,11 @@
       <description>Live your life in Org Mode? Take it with you on your Android device.</description>
     </item>
     <item>
+      <title>com.maazm7d.termuxhub</title>
+      <link>https://f-droid.org/packages/com.maazm7d.termuxhub</link>
+      <description>A lightweight Android app that indexes Termux tools from GitHub metadata.</description>
+    </item>
+    <item>
       <title>com.leekleak.trafficlight</title>
       <link>https://f-droid.org/packages/com.leekleak.trafficlight</link>
       <description>Track your internet usage in the status bar</description>
@@ -863,9 +953,9 @@
       <description>7896 manual pages, 22 basic categories and a bunch of general terminal tips.</description>
     </item>
     <item>
-      <title>com.infomaniak.mail</title>
-      <link>https://f-droid.org/packages/com.infomaniak.mail</link>
-      <description>The secure messaging service for your emails</description>
+      <title>com.inspiredandroid.kai</title>
+      <link>https://f-droid.org/packages/com.inspiredandroid.kai</link>
+      <description>Powerful Conversational AI</description>
     </item>
     <item>
       <title>com.ichi2.anki</title>
@@ -1053,6 +1143,11 @@
       <description>An open-source remote desktop application, the TeamViewer alternative</description>
     </item>
     <item>
+      <title>com.capyreader.app</title>
+      <link>https://f-droid.org/packages/com.capyreader.app</link>
+      <description>A smallish RSS reader</description>
+    </item>
+    <item>
       <title>com.bringyour.network</title>
       <link>https://f-droid.org/packages/com.bringyour.network</link>
       <description>Goodbye VPN!</description>
@@ -1146,6 +1241,11 @@
       <title>co.adityarajput.notifilter</title>
       <link>https://f-droid.org/packages/co.adityarajput.notifilter</link>
       <description>Silence annoying notifications</description>
+    </item>
+    <item>
+      <title>chromahub.rhythm.app</title>
+      <link>https://f-droid.org/packages/chromahub.rhythm.app</link>
+      <description>Your Music, Your Rhythm - Privacy-first player with Material 3 design.</description>
     </item>
     <item>
       <title>chat.delta.lite</title>
