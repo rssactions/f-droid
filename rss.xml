@@ -6,7 +6,7 @@
     <description>New Updated from F-Droid</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Feb 2026 07:31:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 07:47:52 +0000</lastBuildDate>
     <item>
       <title>xyz.linerly.searxist</title>
       <link>https://f-droid.org/packages/xyz.linerly.searxist</link>
@@ -16,6 +16,11 @@
       <title>ua.com.radiokot.photoprism</title>
       <link>https://f-droid.org/packages/ua.com.radiokot.photoprism</link>
       <description>A convenient gallery for PhotoPrism with plenty of useful features</description>
+    </item>
+    <item>
+      <title>tibarj.tranquilstopwatch</title>
+      <link>https://f-droid.org/packages/tibarj.tranquilstopwatch</link>
+      <description>Stopwatch with current time display for long, non-interactive sessions.</description>
     </item>
     <item>
       <title>spam.blocker</title>
@@ -51,11 +56,6 @@
       <title>player.efis.pfd</title>
       <link>https://f-droid.org/packages/player.efis.pfd</link>
       <description>Aviation Glass Cockpit / Electronic Flight Information System with ADS-B "Radar"</description>
-    </item>
-    <item>
-      <title>pl.telenczuk.counterapp</title>
-      <link>https://f-droid.org/packages/pl.telenczuk.counterapp</link>
-      <description>Manually count passing bike, pedestrian and cars and calculate the modal split.</description>
     </item>
     <item>
       <title>page.ooooo.geoshare</title>
@@ -108,14 +108,14 @@
       <description>Lightweight YouTube frontend</description>
     </item>
     <item>
+      <title>org.runnerup.free</title>
+      <link>https://f-droid.org/packages/org.runnerup.free</link>
+      <description>RunnerUp - an open source GPS tracker with advanced workout and audio cues.</description>
+    </item>
+    <item>
       <title>org.paladyn.mediclog</title>
       <link>https://f-droid.org/packages/org.paladyn.mediclog</link>
       <description>Log basic medical information</description>
-    </item>
-    <item>
-      <title>org.opensurge2d.surgeengine</title>
-      <link>https://f-droid.org/packages/org.opensurge2d.surgeengine</link>
-      <description>A retro game engine with a fun platformer inspired by 16-bit Sonic games.</description>
     </item>
     <item>
       <title>org.openhab.habdroid.beta</title>
@@ -131,6 +131,11 @@
       <title>org.nslabs.ir_blaster</title>
       <link>https://f-droid.org/packages/org.nslabs.ir_blaster</link>
       <description>Another Universal IR remote: Hex/Raw, Flipper Zero, LIRC, IRPlus + Signal Tester</description>
+    </item>
+    <item>
+      <title>org.nktnet.middor</title>
+      <link>https://f-droid.org/packages/org.nktnet.middor</link>
+      <description>Mirror applications for HUD display with horizontal flip.</description>
     </item>
     <item>
       <title>org.mozilla.fennec_fdroid</title>
@@ -241,11 +246,6 @@
       <title>org.fossify.calendar</title>
       <link>https://f-droid.org/packages/org.fossify.calendar</link>
       <description>Securely plan, schedule, and set reminders with our private calendar app.</description>
-    </item>
-    <item>
-      <title>org.forthecommunity.torrentsdigger</title>
-      <link>https://f-droid.org/packages/org.forthecommunity.torrentsdigger</link>
-      <description>Dig Torrents from Internet.</description>
     </item>
     <item>
       <title>org.fairscan.app</title>
@@ -388,11 +388,6 @@
       <description>Bitcoin, Ethereum, DeFi</description>
     </item>
     <item>
-      <title>io.heckel.ntfy</title>
-      <link>https://f-droid.org/packages/io.heckel.ntfy</link>
-      <description>Send notifications to your phone from any script using PUT/POST requests</description>
-    </item>
-    <item>
       <title>io.github.teamclouday.AndroidMic</title>
       <link>https://f-droid.org/packages/io.github.teamclouday.AndroidMic</link>
       <description>Use your Android phone as a microphone for your PC</description>
@@ -413,6 +408,11 @@
       <description>Bodyweight workout tracker - create and customize your own exercises</description>
     </item>
     <item>
+      <title>io.github.friesi23.mhabit</title>
+      <link>https://f-droid.org/packages/io.github.friesi23.mhabit</link>
+      <description>Boost your own habit growth with charts.</description>
+    </item>
+    <item>
       <title>io.github.deprec8.enigmadroid</title>
       <link>https://f-droid.org/packages/io.github.deprec8.enigmadroid</link>
       <description>Easily control your Enigma2 box right from your Android device.</description>
@@ -428,6 +428,11 @@
       <description>Sovereign. Seamless. On Matrix</description>
     </item>
     <item>
+      <title>hu.vmiklos.plees_tracker</title>
+      <link>https://f-droid.org/packages/hu.vmiklos.plees_tracker</link>
+      <description>Plees Tracker is a simple sleep tracker for your Android phone.</description>
+    </item>
+    <item>
       <title>github.umer0586.sensorserver</title>
       <link>https://f-droid.org/packages/github.umer0586.sensorserver</link>
       <description>Stream phone's sensors to websocket clients</description>
@@ -436,16 +441,6 @@
       <title>futuristicgoo.squealer</title>
       <link>https://f-droid.org/packages/futuristicgoo.squealer</link>
       <description>Explore SQLite databases</description>
-    </item>
-    <item>
-      <title>free.rm.skytube.oss</title>
-      <link>https://f-droid.org/packages/free.rm.skytube.oss</link>
-      <description>An ad-free and open-source YouTube client.</description>
-    </item>
-    <item>
-      <title>free.rm.skytube.legacy.oss</title>
-      <link>https://f-droid.org/packages/free.rm.skytube.legacy.oss</link>
-      <description>An ad-free and open-source YouTube client for legacy devices.</description>
     </item>
     <item>
       <title>fr.ign.geoportail</title>
@@ -476,11 +471,6 @@
       <title>de.wger.flutter</title>
       <link>https://f-droid.org/packages/de.wger.flutter</link>
       <description>Fitness/workout, nutrition and weight tracker</description>
-    </item>
-    <item>
-      <title>de.tutao.tutanota</title>
-      <link>https://f-droid.org/packages/de.tutao.tutanota</link>
-      <description>Encrypted email &amp; calendar service - easy to use, secure by design.</description>
     </item>
     <item>
       <title>de.sudoq</title>
@@ -628,11 +618,6 @@
       <description>Privacy-friendly, open-source to-do list app. No ads, no tracking.</description>
     </item>
     <item>
-      <title>com.trougnouf.cfait</title>
-      <link>https://f-droid.org/packages/com.trougnouf.cfait</link>
-      <description>Powerful, fast and elegant TODO / task manager. (CalDAV and local)</description>
-    </item>
-    <item>
       <title>com.trapplab.nfc_radio</title>
       <link>https://f-droid.org/packages/com.trapplab.nfc_radio</link>
       <description>Simple NFC audio player to start playback with NFC tags</description>
@@ -733,6 +718,11 @@
       <description>Train French noun genders using spaced repetition</description>
     </item>
     <item>
+      <title>com.knirirr.beecount</title>
+      <link>https://f-droid.org/packages/com.knirirr.beecount</link>
+      <description>Knitting row counter</description>
+    </item>
+    <item>
       <title>com.keylesspalace.tusky</title>
       <link>https://f-droid.org/packages/com.keylesspalace.tusky</link>
       <description>A multi account client for the social network Mastodon</description>
@@ -750,7 +740,7 @@
     <item>
       <title>com.inspiredandroid.linuxcommandbibliotheca</title>
       <link>https://f-droid.org/packages/com.inspiredandroid.linuxcommandbibliotheca</link>
-      <description>7703 manual pages, 23 basic categories and a bunch of general terminal tips.</description>
+      <description>7713 manual pages, 23 basic categories and a bunch of general terminal tips.</description>
     </item>
     <item>
       <title>com.infomaniak.meet</title>
@@ -808,11 +798,6 @@
       <description>Build control interfaces for WebSocket, Bluetooth/LE, MQTT, TCP &amp; UDP protocols.</description>
     </item>
     <item>
-      <title>com.github.libretube</title>
-      <link>https://f-droid.org/packages/com.github.libretube</link>
-      <description>Alternative frontend for YouTube with focus on privacy</description>
-    </item>
-    <item>
       <title>com.github.emavgl.piggybankpro</title>
       <link>https://f-droid.org/packages/com.github.emavgl.piggybankpro</link>
       <description>Oinkoin Money Manager makes managing personal finances easy and secure.</description>
@@ -846,11 +831,6 @@
       <title>com.freetime.geoweather</title>
       <link>https://f-droid.org/packages/com.freetime.geoweather</link>
       <description>A Weather App that is so good, WIP (Work In Progress) and has many Features.</description>
-    </item>
-    <item>
-      <title>com.foxdebug.acode</title>
-      <link>https://f-droid.org/packages/com.foxdebug.acode</link>
-      <description>A lightweight but powerful text/code editor.</description>
     </item>
     <item>
       <title>com.foss.aihub</title>
@@ -896,11 +876,6 @@
       <title>com.donnnno.arcticons</title>
       <link>https://f-droid.org/packages/com.donnnno.arcticons</link>
       <description>A monotone line-based icon pack for dark themed setups.</description>
-    </item>
-    <item>
-      <title>com.dessalines.thumbkey</title>
-      <link>https://f-droid.org/packages/com.dessalines.thumbkey</link>
-      <description>A privacy-conscious keyboard made for your thumbs.</description>
     </item>
     <item>
       <title>com.demizo.daily_you</title>
@@ -1011,6 +986,11 @@
       <title>askanimus.arbeitszeiterfassung2</title>
       <link>https://f-droid.org/packages/askanimus.arbeitszeiterfassung2</link>
       <description>Record working hours, generate and send reports (PDF, CSV and ICS)</description>
+    </item>
+    <item>
+      <title>app.zimly.backup</title>
+      <link>https://f-droid.org/packages/app.zimly.backup</link>
+      <description>Synchronise your media and documents to any S3 compatible storage</description>
     </item>
     <item>
       <title>app.umerfarooq.littlerelay</title>
