@@ -6,7 +6,7 @@
     <description>New Updated from F-Droid</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 25 Feb 2026 07:43:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 07:42:46 +0000</lastBuildDate>
     <item>
       <title>xyz.lepisma.harp</title>
       <link>https://f-droid.org/packages/xyz.lepisma.harp</link>
@@ -68,24 +68,9 @@
       <description>Music player for Subsonic servers with modern Material You interface</description>
     </item>
     <item>
-      <title>ru.application.homemedkit</title>
-      <link>https://f-droid.org/packages/ru.application.homemedkit</link>
-      <description>Home Medkit — medicine storage and intake reminders.</description>
-    </item>
-    <item>
       <title>rs.ruffle</title>
       <link>https://f-droid.org/packages/rs.ruffle</link>
       <description>An Android application for ruffle.rs</description>
-    </item>
-    <item>
-      <title>rocks.poopjournal.vacationdays</title>
-      <link>https://f-droid.org/packages/rocks.poopjournal.vacationdays</link>
-      <description>See when you’re free — Vacation Days helps you keep track of your days off.</description>
-    </item>
-    <item>
-      <title>rocks.poopjournal.fucksgiven</title>
-      <link>https://f-droid.org/packages/rocks.poopjournal.fucksgiven</link>
-      <description>﻿Self-love is the greatest middle finger of all time.</description>
     </item>
     <item>
       <title>player.efis.pfd</title>
@@ -96,21 +81,6 @@
       <title>pl.lebihan.authnkey</title>
       <link>https://f-droid.org/packages/pl.lebihan.authnkey</link>
       <description>Passkey credential provider for hardware security keys</description>
-    </item>
-    <item>
-      <title>org.y20k.transistor</title>
-      <link>https://f-droid.org/packages/org.y20k.transistor</link>
-      <description>Transistor is an app for listening to radio stations over the internet.</description>
-    </item>
-    <item>
-      <title>org.y20k.trackbook</title>
-      <link>https://f-droid.org/packages/org.y20k.trackbook</link>
-      <description>Record your movement</description>
-    </item>
-    <item>
-      <title>org.y20k.stayput</title>
-      <link>https://f-droid.org/packages/org.y20k.stayput</link>
-      <description>Stay Put helps prevent theft of your device while charging in public spaces.</description>
     </item>
     <item>
       <title>org.y20k.escapepod</title>
@@ -328,11 +298,6 @@
       <description>No summary available</description>
     </item>
     <item>
-      <title>org.billthefarmer.crossword</title>
-      <link>https://f-droid.org/packages/org.billthefarmer.crossword</link>
-      <description>No summary available</description>
-    </item>
-    <item>
       <title>org.billthefarmer.buses</title>
       <link>https://f-droid.org/packages/org.billthefarmer.buses</link>
       <description>No summary available</description>
@@ -508,11 +473,6 @@
       <description>Markdown notes, task lists, Nextcloud sync and more. A fork of the Quillnote app</description>
     </item>
     <item>
-      <title>io.github.gonbei774.calisthenicsmemory</title>
-      <link>https://f-droid.org/packages/io.github.gonbei774.calisthenicsmemory</link>
-      <description>Bodyweight workout tracker - create and customize your own exercises</description>
-    </item>
-    <item>
       <title>io.ente.photos.fdroid</title>
       <link>https://f-droid.org/packages/io.ente.photos.fdroid</link>
       <description>Backup, Organise, Share - Private photo storage with end-to-end encryption</description>
@@ -543,9 +503,9 @@
       <description>Conference program app for the Chaos Communication Congress</description>
     </item>
     <item>
-      <title>host.stjin.anonaddy</title>
-      <link>https://f-droid.org/packages/host.stjin.anonaddy</link>
-      <description>Anonymous Email Forwarding</description>
+      <title>im.quicksy.client</title>
+      <link>https://f-droid.org/packages/im.quicksy.client</link>
+      <description>Jabber/XMPP with Easy Entry and Easy Discovery</description>
     </item>
     <item>
       <title>github.paroj.dsub2000</title>
@@ -576,6 +536,11 @@
       <title>fr.corenting.convertisseureurofranc</title>
       <link>https://f-droid.org/packages/fr.corenting.convertisseureurofranc</link>
       <description>Inflation calculator for various countries</description>
+    </item>
+    <item>
+      <title>eu.siacs.conversations</title>
+      <link>https://f-droid.org/packages/eu.siacs.conversations</link>
+      <description>Encrypted, easy-to-use XMPP instant messenger for your mobile device</description>
     </item>
     <item>
       <title>eu.opencloud.android</title>
@@ -711,11 +676,6 @@
       <title>de.monocles.chat</title>
       <link>https://f-droid.org/packages/de.monocles.chat</link>
       <description>is a full-featured XMPP chat client</description>
-    </item>
-    <item>
-      <title>de.markusfisch.android.wavelines</title>
-      <link>https://f-droid.org/packages/de.markusfisch.android.wavelines</link>
-      <description>Wavy wallpaper</description>
     </item>
     <item>
       <title>de.markusfisch.android.pielauncher</title>
@@ -868,6 +828,11 @@
       <description>Advanced Text Editor for Android</description>
     </item>
     <item>
+      <title>com.ripster.sossoldi</title>
+      <link>https://f-droid.org/packages/com.ripster.sossoldi</link>
+      <description>Sossoldi is a wealth management and tracking app</description>
+    </item>
+    <item>
       <title>com.raiiware.forcestophelper</title>
       <link>https://f-droid.org/packages/com.raiiware.forcestophelper</link>
       <description>Helps you manually force-stop background apps.</description>
@@ -958,11 +923,6 @@
       <description>A modern, Material 3 local music player built for smooth offline listening</description>
     </item>
     <item>
-      <title>com.madlonkay.orgro</title>
-      <link>https://f-droid.org/packages/com.madlonkay.orgro</link>
-      <description>Live your life in Org Mode? Take it with you on your Android device.</description>
-    </item>
-    <item>
       <title>com.machiav3lli.fdroid</title>
       <link>https://f-droid.org/packages/com.machiav3lli.fdroid</link>
       <description>A modern feature-rich F-Droid client.</description>
@@ -981,11 +941,6 @@
       <title>com.looker.droidify</title>
       <link>https://f-droid.org/packages/com.looker.droidify</link>
       <description>Clutterfree F-Droid client</description>
-    </item>
-    <item>
-      <title>com.logger.app</title>
-      <link>https://f-droid.org/packages/com.logger.app</link>
-      <description>Track, Analyze, and Manage Your Calls</description>
     </item>
     <item>
       <title>com.leekleak.trafficlight</title>
@@ -1021,11 +976,6 @@
       <title>com.ismartcoding.plain</title>
       <link>https://f-droid.org/packages/com.ismartcoding.plain</link>
       <description>Manage your phone on the web! Access files, contacts, videos, music &amp; more.</description>
-    </item>
-    <item>
-      <title>com.inspiredandroid.linuxcommandbibliotheca</title>
-      <link>https://f-droid.org/packages/com.inspiredandroid.linuxcommandbibliotheca</link>
-      <description>7730 manual pages, 23 basic categories and a bunch of general terminal tips.</description>
     </item>
     <item>
       <title>com.inspiredandroid.kai</title>
@@ -1091,11 +1041,6 @@
       <title>com.github.olga_yakovleva.rhvoice.android</title>
       <link>https://f-droid.org/packages/com.github.olga_yakovleva.rhvoice.android</link>
       <description>TTS engine with extended languages support (incl. Russian)</description>
-    </item>
-    <item>
-      <title>com.github.emavgl.piggybankpro</title>
-      <link>https://f-droid.org/packages/com.github.emavgl.piggybankpro</link>
-      <description>Oinkoin Money Manager makes managing personal finances easy and secure.</description>
     </item>
     <item>
       <title>com.github.dyhkwong.sagernet</title>
@@ -1376,6 +1321,11 @@
       <title>app.pomodorot</title>
       <link>https://f-droid.org/packages/app.pomodorot</link>
       <description>A simple timer which pauses when not in view</description>
+    </item>
+    <item>
+      <title>app.passwordstore.agrahn</title>
+      <link>https://f-droid.org/packages/app.passwordstore.agrahn</link>
+      <description>Manage your passwords</description>
     </item>
     <item>
       <title>app.organicmaps</title>
